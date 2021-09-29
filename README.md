@@ -1,8 +1,8 @@
 # Image-Restoration-Code
 
-THis is the code for Group 8:
+This is the code for Group 8:
 - Isabel Moreno
-- Rasmus Sjoo
+- Rasmus Sjöö
 - Joyce Cobussen
 - Jerry Huang
 
