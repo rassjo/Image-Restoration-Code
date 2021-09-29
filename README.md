@@ -1,2 +1,2 @@
 # Image-Restoration-Code
-Finished Codes 
+The codes for Successive overrelaxat
